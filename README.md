@@ -29,4 +29,4 @@ pod install
 ```bash
 cd ../
 npm run ios
-``
+```
